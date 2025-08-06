@@ -69,14 +69,6 @@ Use Cases:
 - Lightweight microservice-style architecture using Dapper
 - API testing and documentation with Swagger
 
-Future Enhancements:
-- Add Docker + Docker Compose support
-- Introduce JWT-based authentication
-- Add integration and unit tests
-- Implement cache eviction strategy on Update / Delete
-
-License:
-MIT License
-
 This project and its documentation were created as a learning exercise.
+
 Parts of the documentation and structure were generated using AI (ChatGPT by OpenAI).

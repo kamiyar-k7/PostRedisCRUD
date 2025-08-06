@@ -42,12 +42,12 @@ How to Run:
 
 Prerequisites:
 - .NET 9 SDK
-- PostgreSQL (default port 5433 used)
+- PostgreSQL (default port 5432 used)
 - Redis
 
 Configuration:
 In appsettings.json, set your connection string:
-Host=localhost;Port=5433;Database=CrudProject;Username=postgres;Password=1234
+Host=localhost;Port=5432;Database=CrudProject;Username=postgres;Password=1234
 
 Run the app:
 dotnet run
